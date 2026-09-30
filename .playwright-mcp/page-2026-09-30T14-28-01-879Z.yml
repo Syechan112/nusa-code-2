@@ -1,0 +1,135 @@
+- generic [ref=f6e2]:
+  - banner [ref=f6e3]:
+    - generic [ref=f6e5]:
+      - link "NU NusaCode" [ref=f6e6] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f6e7]: NU
+        - generic [ref=f6e8]: NusaCode
+      - navigation [ref=f6e9]:
+        - link "About" [ref=f6e10] [cursor=pointer]:
+          - /url: /about
+        - link "Services" [ref=f6e11] [cursor=pointer]:
+          - /url: /services
+        - link "Pricing" [ref=f6e12] [cursor=pointer]:
+          - /url: /pricing
+        - link "Projects" [ref=f6e13] [cursor=pointer]:
+          - /url: /projects
+        - link "Contact" [ref=f6e14] [cursor=pointer]:
+          - /url: /contact
+      - button "Start a Project" [ref=f6e16]
+  - main [ref=f6e20]:
+    - generic [ref=f6e21]:
+      - link "Kembali ke Paket (Pricing)" [ref=f6e23] [cursor=pointer]:
+        - /url: /pricing
+      - generic [ref=f6e26]:
+        - generic [ref=f6e27]:
+          - generic [ref=f6e28]:
+            - paragraph [ref=f6e30]: TIER 01 · PAKET WEBSITE
+            - heading "Starter" [level=1] [ref=f6e31]
+            - paragraph [ref=f6e32]: Paket entry-level untuk landing page sederhana, personal profile, atau kebutuhan promosi dasar. Cocok untuk project dengan struktur dan fitur yang tidak terlalu kompleks.
+          - generic [ref=f6e33]:
+            - generic [ref=f6e34]:
+              - generic [ref=f6e35]:
+                - paragraph [ref=f6e36]: 01 · CAKUPAN
+                - heading "Apa yang termasuk?" [level=2] [ref=f6e37]
+              - generic [ref=f6e38]: Included
+            - generic [ref=f6e39]:
+              - paragraph [ref=f6e44]: Struktur halaman sesuai kebutuhan
+              - paragraph [ref=f6e49]: Responsive untuk desktop & mobile
+              - paragraph [ref=f6e54]: Tombol WhatsApp / CTA
+              - paragraph [ref=f6e59]: Basic interaction & animation
+              - paragraph [ref=f6e64]: Optimasi struktur frontend
+          - generic [ref=f6e65]:
+            - generic [ref=f6e66]:
+              - generic [ref=f6e67]:
+                - paragraph [ref=f6e68]: 02 · HASIL AKHIR
+                - heading "Yang akan Anda terima" [level=2] [ref=f6e69]
+              - generic [ref=f6e70]: Deliverables
+            - generic [ref=f6e71]:
+              - generic [ref=f6e72]:
+                - generic [ref=f6e73]: "01"
+                - paragraph [ref=f6e74]: Source code project
+              - generic [ref=f6e75]:
+                - generic [ref=f6e76]: "02"
+                - paragraph [ref=f6e77]: Asset yang digunakan dalam project
+              - generic [ref=f6e78]:
+                - generic [ref=f6e79]: "03"
+                - paragraph [ref=f6e80]: File build siap deployment
+          - generic [ref=f6e81]:
+            - paragraph [ref=f6e82]: 03 · CATATAN
+            - generic [ref=f6e83]:
+              - generic [ref=f6e84]:
+                - heading "Cocok untuk" [level=3] [ref=f6e85]
+                - paragraph [ref=f6e86]: Personal brand, UMKM kecil, promosi produk, event, atau landing page sederhana.
+              - generic [ref=f6e87]:
+                - heading "Bisa disesuaikan" [level=3] [ref=f6e88]
+                - paragraph [ref=f6e89]: Kebutuhan di luar cakupan paket dapat dibahas dan disesuaikan berdasarkan kebutuhan proyek.
+        - complementary [ref=f6e90]:
+          - generic [ref=f6e91]:
+            - generic [ref=f6e92]:
+              - paragraph [ref=f6e93]: INVESTASI
+              - generic [ref=f6e94]: Tier 01
+            - generic [ref=f6e95]:
+              - generic [ref=f6e96]: Mulai dari Rp200.000
+              - generic [ref=f6e97]: / one-time
+            - generic [ref=f6e98]:
+              - generic [ref=f6e99]:
+                - generic [ref=f6e100]: Estimasi
+                - generic [ref=f6e104]: 2 - 4 Hari Kerja
+              - generic [ref=f6e105]:
+                - generic [ref=f6e106]: Support
+                - generic [ref=f6e110]: 7 Hari Support
+            - generic [ref=f6e111]:
+              - button "Mulai Diskusi" [ref=f6e112]
+              - paragraph [ref=f6e116]: Konsultasi kebutuhan terlebih dahulu.Tidak harus langsung memilih paket.
+          - generic [ref=f6e117]:
+            - paragraph [ref=f6e118]: Butuh sesuatu yang berbeda?
+            - paragraph [ref=f6e119]: Paket bukan batasan. Jika kebutuhan website Anda lebih spesifik, kita bisa membahas scope dan fitur dari awal.
+            - button "Diskusikan Kebutuhan" [ref=f6e120]
+  - contentinfo [ref=f6e124]:
+    - generic [ref=f6e125]:
+      - generic [ref=f6e127]:
+        - generic [ref=f6e128]:
+          - paragraph [ref=f6e129]: NusaCode
+          - heading "Punya ide untuk website atau sistem digital?" [level=2] [ref=f6e130]
+          - link "hello@nusacode.com ↗" [ref=f6e131] [cursor=pointer]:
+            - /url: mailto:hello@nusacode.com
+            - text: hello@nusacode.com
+            - generic [ref=f6e132]: ↗
+        - generic [ref=f6e133]:
+          - paragraph [ref=f6e134]: Navigation
+          - navigation [ref=f6e135]:
+            - list [ref=f6e136]:
+              - listitem [ref=f6e137]:
+                - link "About" [ref=f6e138] [cursor=pointer]:
+                  - /url: /about
+              - listitem [ref=f6e139]:
+                - link "Services" [ref=f6e140] [cursor=pointer]:
+                  - /url: /services
+              - listitem [ref=f6e141]:
+                - link "Pricing" [ref=f6e142] [cursor=pointer]:
+                  - /url: /pricing
+              - listitem [ref=f6e143]:
+                - link "Projects" [ref=f6e144] [cursor=pointer]:
+                  - /url: /projects
+              - listitem [ref=f6e145]:
+                - link "Contact" [ref=f6e146] [cursor=pointer]:
+                  - /url: /contact
+        - generic [ref=f6e147]:
+          - paragraph [ref=f6e148]: Contact
+          - generic [ref=f6e149]:
+            - link "WhatsApp" [ref=f6e150] [cursor=pointer]:
+              - /url: https://wa.me/628979673149
+            - link "Email" [ref=f6e151] [cursor=pointer]:
+              - /url: mailto:syechanmochsinalthubaiti@gmail.com
+            - generic [ref=f6e152]: Jakarta, Indonesia
+          - generic [ref=f6e153]:
+            - link "Instagram" [ref=f6e154] [cursor=pointer]:
+              - /url: https://instagram.com
+            - link "Facebook" [ref=f6e157] [cursor=pointer]:
+              - /url: https://facebook.com
+            - link "LinkedIn":
+              - /url: https://linkedin.com
+      - generic [ref=f6e160]:
+        - paragraph [ref=f6e161]: © 2026 NusaCode. All rights reserved.
+        - paragraph [ref=f6e162]: Built with React & Tailwind CSS.

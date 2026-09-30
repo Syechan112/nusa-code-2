@@ -1,0 +1,419 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e5]:
+      - link "NU NusaCode" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e7]: NU
+        - generic [ref=e8]: NusaCode
+      - navigation [ref=e9]:
+        - link "About" [ref=e10] [cursor=pointer]:
+          - /url: /about
+        - link "Services" [ref=e11] [cursor=pointer]:
+          - /url: /services
+        - link "Pricing" [ref=e12] [cursor=pointer]:
+          - /url: /pricing
+        - link "Projects" [ref=e13] [cursor=pointer]:
+          - /url: /projects
+        - link "Contact" [ref=e14] [cursor=pointer]:
+          - /url: /contact
+      - button "Start a Project" [ref=e16]
+  - main [ref=e20]:
+    - generic [ref=e23]:
+      - generic [ref=e25]:
+        - generic [ref=e26]: WEB DEVELOPMENT SERVICE
+        - heading "Website yang Dibuat untuk Kebutuhan Bisnis Anda." [level=1] [ref=e29]
+        - paragraph [ref=e30]: Bukan sekadar website tampil bagus. Saya membantu membangun website yang sesuai dengan kebutuhan bisnis, mulai dari landing page sederhana hingga sistem web dengan fitur custom.
+        - generic [ref=e31]:
+          - button "Konsultasi Sekarang" [ref=e32]
+          - button "Lihat Portfolio" [ref=e36]
+        - paragraph [ref=e38]: Landing Page · Company Profile · Business Website · Dashboard · Custom System
+      - generic [ref=e40]:
+        - img "Website project showcase" [ref=e41]
+        - generic [ref=e43]:
+          - paragraph [ref=e44]: Web Development
+          - paragraph [ref=e45]: Service
+        - generic [ref=e46]: 01 / 06
+    - generic [ref=e49]:
+      - generic [ref=e50]:
+        - generic [ref=e51]:
+          - img "Custom Solutions" [ref=e52]
+          - generic [ref=e53]:
+            - paragraph [ref=e54]: ABOUT THE SERVICE
+            - paragraph [ref=e55]: Custom Solutions
+          - generic [ref=e56]: "01"
+        - generic [ref=e57]:
+          - generic [ref=e58]:
+            - paragraph [ref=e59]: Custom Solutions
+            - paragraph [ref=e60]: Setiap bisnis punya kebutuhan yang berbeda. Website dibuat berdasarkan tujuan, fitur, dan alur yang memang dibutuhkan.
+          - generic [ref=e61]: 01 / 03
+      - generic [ref=e62]:
+        - paragraph [ref=e63]: ABOUT THE SERVICE
+        - heading "Mulai dari kebutuhan, bukan dari template." [level=2] [ref=e64]
+        - paragraph [ref=e65]: Setiap bisnis punya kebutuhan yang berbeda. Karena itu, website dibuat berdasarkan tujuan, fitur, dan alur yang memang dibutuhkan. Mulai dari website untuk memperkenalkan bisnis, mendapatkan pelanggan baru, menerima pesanan, sampai sistem internal untuk membantu pekerjaan sehari-hari. Anda punya idenya, kita bahas dan tentukan solusi yang paling sesuai.
+        - generic [ref=e66]: Key Features
+        - generic [ref=e69]:
+          - generic [ref=e70]:
+            - generic [ref=e71]: "02"
+            - generic [ref=e72]:
+              - heading "User-Centered Design" [level=3] [ref=e73]
+              - paragraph [ref=e74]: Website tidak hanya dibuat untuk terlihat bagus, tetapi juga mudah digunakan.
+          - generic [ref=e75]:
+            - generic [ref=e76]: "03"
+            - generic [ref=e77]:
+              - heading "Scalable Architecture" [level=3] [ref=e78]
+              - paragraph [ref=e79]: Website dapat dirancang agar bisa dikembangkan ketika kebutuhan bisnis bertambah.
+    - generic [ref=e81]:
+      - generic [ref=e82]:
+        - paragraph [ref=e83]: WHAT I BUILD
+        - heading "Website untuk berbagai kebutuhan." [level=2] [ref=e84]
+        - paragraph [ref=e85]: "Bisa dibuat menjadi 6 kategori:"
+        - button "Explore Services" [ref=e87]
+      - generic [ref=e90]:
+        - generic [ref=e91]:
+          - img "Landing Page" [ref=e92]
+          - generic [ref=e95]:
+            - generic [ref=e96]:
+              - text: 01 / 06
+              - heading "Landing Page" [level=3] [ref=e97]
+              - paragraph [ref=e98]: "Website fokus untuk promosi produk, campaign, event, atau mendapatkan leads. Cocok untuk: Produk, Jasa, Campaign, Event, Personal brand."
+            - generic [ref=e99]: Featured
+        - generic [ref=e100]:
+          - img "Company Profile" [ref=e101]
+          - generic [ref=e104]:
+            - generic [ref=e105]:
+              - text: "02"
+              - heading "Company Profile" [level=3] [ref=e106]
+              - paragraph [ref=e107]: "Website profesional untuk memperkenalkan perusahaan, layanan, portofolio, dan informasi bisnis. Cocok untuk: Perusahaan, Agency, UMKM, Organisasi, Profesional."
+            - generic [ref=e108]: ↗
+        - generic [ref=e109]:
+          - img "Business Website" [ref=e110]
+          - generic [ref=e113]:
+            - generic [ref=e114]:
+              - text: "03"
+              - heading "Business Website" [level=3] [ref=e115]
+              - paragraph [ref=e116]: "Website yang lebih lengkap untuk membantu aktivitas bisnis. Contoh: Katalog produk, Booking, Form inquiry, WhatsApp integration, CMS, Customer area."
+            - generic [ref=e117]: ↗
+        - generic [ref=e118]:
+          - img "Online Store" [ref=e119]
+          - generic [ref=e122]:
+            - generic [ref=e123]:
+              - text: "04"
+              - heading "Online Store" [level=3] [ref=e124]
+              - paragraph [ref=e125]: "Website untuk menampilkan dan menjual produk secara online. Fitur: Product catalog, Shopping cart, Checkout, Order management, Payment integration, Admin panel."
+            - generic [ref=e126]: ↗
+        - generic [ref=e127]:
+          - img "Dashboard & Internal System" [ref=e128]
+          - generic [ref=e131]:
+            - generic [ref=e132]:
+              - text: "05"
+              - heading "Dashboard & Internal System" [level=3] [ref=e133]
+              - paragraph [ref=e134]: "Sistem web untuk membantu pekerjaan dan pengelolaan data. Contoh: Dashboard, Absensi, Inventory, Management system, Reporting, Data management."
+            - generic [ref=e135]: ↗
+        - generic [ref=e136]:
+          - img "Custom Web Application" [ref=e137]
+          - generic [ref=e140]:
+            - generic [ref=e141]:
+              - text: "06"
+              - heading "Custom Web Application" [level=3] [ref=e142]
+              - paragraph [ref=e143]: "Punya kebutuhan yang lebih spesifik? Sistem dapat dibuat dari awal berdasarkan workflow dan kebutuhan bisnis. Contoh: SaaS, POS, Booking system, Education platform, CRM, Custom management system."
+            - generic [ref=e144]: ↗
+    - generic [ref=e147]:
+      - generic [ref=e148]:
+        - paragraph [ref=e149]: WHY WORK WITH ME
+        - heading "Website dibuat dengan memahami kebutuhan." [level=2] [ref=e150]
+        - paragraph [ref=e151]: Bukan sekadar membuat website yang tampil bagus. Setiap solusi dibangun dari pemahaman kebutuhan bisnis Anda.
+      - generic [ref=e152]:
+        - generic [ref=e153]:
+          - generic [ref=e154]: "01"
+          - generic [ref=e155]:
+            - heading "Custom, bukan sekadar template" [level=3] [ref=e156]
+            - paragraph [ref=e157]: Desain dan fitur disesuaikan dengan kebutuhan project.
+          - generic [ref=e158]: Web Development
+        - generic [ref=e159]:
+          - generic [ref=e160]: "02"
+          - generic [ref=e161]:
+            - heading "Bisa mulai dari diskusi" [level=3] [ref=e162]
+            - paragraph [ref=e163]: Belum tahu harus membuat apa? Kita bisa mulai dari kebutuhan dan masalah yang ingin diselesaikan.
+          - generic [ref=e164]: Web Development
+        - generic [ref=e165]:
+          - generic [ref=e166]: "03"
+          - generic [ref=e167]:
+            - heading "Fokus pada usability" [level=3] [ref=e168]
+            - paragraph [ref=e169]: Website tidak hanya dibuat untuk terlihat bagus, tetapi juga mudah digunakan.
+          - generic [ref=e170]: Web Development
+        - generic [ref=e171]:
+          - generic [ref=e172]: "04"
+          - generic [ref=e173]:
+            - heading "Bisa berkembang" [level=3] [ref=e174]
+            - paragraph [ref=e175]: Website dapat dirancang agar bisa dikembangkan ketika kebutuhan bisnis bertambah.
+          - generic [ref=e176]: Web Development
+    - generic [ref=e179]:
+      - generic [ref=e180]:
+        - paragraph [ref=e181]: HOW IT WORKS
+        - heading "Dari ide sampai website siap digunakan." [level=2] [ref=e182]
+      - generic [ref=e183]:
+        - generic [ref=e185]:
+          - generic [ref=e186]: "01"
+          - heading "Konsultasi" [level=3] [ref=e187]
+          - paragraph [ref=e188]: Ceritakan bisnis, kebutuhan, dan fitur yang ingin dibuat.
+        - generic [ref=e190]:
+          - generic [ref=e191]: "02"
+          - heading "Tentukan Scope" [level=3] [ref=e192]
+          - paragraph [ref=e193]: Kita tentukan halaman, fitur, timeline, dan estimasi biaya.
+        - generic [ref=e195]:
+          - generic [ref=e196]: "03"
+          - heading "Design & Development" [level=3] [ref=e197]
+          - paragraph [ref=e198]: Website mulai dirancang dan dikembangkan sesuai scope yang disepakati.
+        - generic [ref=e200]:
+          - generic [ref=e201]: "04"
+          - heading "Review" [level=3] [ref=e202]
+          - paragraph [ref=e203]: Anda bisa melihat hasil dan memberikan feedback.
+        - generic [ref=e205]:
+          - generic [ref=e206]: "05"
+          - heading "Launch" [level=3] [ref=e207]
+          - paragraph [ref=e208]: Website siap digunakan dan dipublikasikan.
+    - generic [ref=e211]:
+      - generic [ref=e212]:
+        - generic [ref=e213]:
+          - paragraph [ref=e214]: SELECTED WORK
+          - heading "Beberapa project yang pernah saya bangun." [level=2] [ref=e215]
+        - paragraph [ref=e216]: Beberapa project yang pernah saya bangun — dari landing page, company profile, hingga sistem custom.
+      - generic [ref=e217]:
+        - generic [ref=e218]:
+          - img "Nusa Code" [ref=e219]
+          - generic [ref=e221]:
+            - generic [ref=e222]: 01 / 04
+            - generic [ref=e223]: Featured
+          - generic [ref=e224]:
+            - paragraph [ref=e225]: 2026 • Web Development Service
+            - heading "Nusa Code" [level=3] [ref=e226]
+        - generic [ref=e227]:
+          - img "HiPlaty" [ref=e228]
+          - generic [ref=e230]:
+            - generic [ref=e231]: "02"
+            - generic [ref=e232]: ↗
+          - generic [ref=e233]:
+            - paragraph [ref=e234]: 2026 • Learning Management System
+            - heading "HiPlaty" [level=3] [ref=e235]
+        - generic [ref=e236]:
+          - img "Super POS" [ref=e237]
+          - generic [ref=e239]:
+            - generic [ref=e240]: "03"
+            - generic [ref=e241]: ↗
+          - generic [ref=e242]:
+            - paragraph [ref=e243]: 2026 • Point of Sale & Inventory System
+            - heading "Super POS" [level=3] [ref=e244]
+        - generic [ref=e245]:
+          - img "Atheria" [ref=e246]
+          - generic [ref=e248]:
+            - generic [ref=e249]: "04"
+            - generic [ref=e250]: ↗
+          - generic [ref=e251]:
+            - paragraph [ref=e252]: 2026 • Company Profile
+            - heading "Atheria" [level=3] [ref=e253]
+      - button "View All Projects ↗" [ref=e255]:
+        - text: View All Projects
+        - generic [ref=e256]: ↗
+    - generic [ref=e258]:
+      - generic [ref=e259]:
+        - paragraph [ref=e260]: PRICING
+        - heading "3 Paket Utama + Custom." [level=2] [ref=e261]
+        - paragraph [ref=e262]: Tidak menemukan paket yang sesuai? Tidak masalah. Setiap project bisa disesuaikan dengan kebutuhan dan budget. Ceritakan dulu apa yang ingin dibuat, lalu kita tentukan fitur dan solusi yang paling masuk akal.
+      - generic [ref=e263]:
+        - generic [ref=e264]:
+          - generic [ref=e265]:
+            - generic [ref=e266]: Tier 01
+            - link [ref=e268] [cursor=pointer]:
+              - /url: /pricing/starter
+              - heading "Starter ↗" [level=3] [ref=e269]
+            - paragraph [ref=e270]: Untuk mulai membangun kehadiran online.
+            - generic [ref=e271]: Mulai dari Rp1.500.000
+            - generic [ref=e274]:
+              - paragraph [ref=e275]: "Termasuk di dalam paket:"
+              - list [ref=e276]:
+                - listitem [ref=e277]:
+                  - generic [ref=e281]: 1–5 section / halaman
+                - listitem [ref=e282]:
+                  - generic [ref=e286]: Responsive design
+                - listitem [ref=e287]:
+                  - generic [ref=e291]: Custom UI design
+                - listitem [ref=e292]:
+                  - generic [ref=e296]: WhatsApp CTA
+                - listitem [ref=e297]:
+                  - generic [ref=e301]: Contact / inquiry form
+                - listitem [ref=e302]:
+                  - generic [ref=e306]: Basic SEO
+                - listitem [ref=e307]:
+                  - generic [ref=e311]: Deployment
+                - listitem [ref=e312]:
+                  - generic [ref=e316]: Revisi hingga 2x
+          - generic [ref=e317]:
+            - link [ref=e318] [cursor=pointer]:
+              - /url: /pricing/starter
+              - button "Lihat Detail Paket" [ref=e319]
+            - button "Pilih Starter Langsung (Form Kontak) ↓" [ref=e325] [cursor=pointer]
+        - generic [ref=e326]:
+          - generic [ref=e327]:
+            - generic [ref=e328]:
+              - generic [ref=e329]: Tier 02
+              - generic [ref=e330]: MOST REQUESTED
+            - link [ref=e331] [cursor=pointer]:
+              - /url: /pricing/business
+              - heading "Business ↗" [level=3] [ref=e332]
+            - paragraph [ref=e333]: Untuk bisnis yang membutuhkan website lebih lengkap.
+            - generic [ref=e334]: Mulai dari Rp3.000.000
+            - generic [ref=e337]:
+              - paragraph [ref=e338]: "Termasuk di dalam paket:"
+              - list [ref=e339]:
+                - listitem [ref=e340]:
+                  - generic [ref=e344]: Hingga 8 halaman
+                - listitem [ref=e345]:
+                  - generic [ref=e349]: Custom UI design
+                - listitem [ref=e350]:
+                  - generic [ref=e354]: Responsive design
+                - listitem [ref=e355]:
+                  - generic [ref=e359]: WhatsApp integration
+                - listitem [ref=e360]:
+                  - generic [ref=e364]: Contact form
+                - listitem [ref=e365]:
+                  - generic [ref=e369]: Product / service catalog
+                - listitem [ref=e370]:
+                  - generic [ref=e374]: Basic CMS
+                - listitem [ref=e375]:
+                  - generic [ref=e379]: Basic SEO
+                - listitem [ref=e380]:
+                  - generic [ref=e384]: Deployment
+                - listitem [ref=e385]:
+                  - generic [ref=e389]: Revisi hingga 3x
+          - generic [ref=e390]:
+            - link [ref=e391] [cursor=pointer]:
+              - /url: /pricing/business
+              - button "Lihat Detail Paket" [ref=e392]
+            - button "Pilih Business Langsung (Form Kontak) ↓" [ref=e398] [cursor=pointer]
+        - generic [ref=e399]:
+          - generic [ref=e400]:
+            - generic [ref=e401]: Tier 03
+            - link [ref=e403] [cursor=pointer]:
+              - /url: /pricing/custom
+              - heading "Custom ↗" [level=3] [ref=e404]
+            - paragraph [ref=e405]: Untuk kebutuhan yang lebih kompleks.
+            - generic [ref=e406]: Harga berdasarkan kebutuhan
+            - generic [ref=e409]:
+              - paragraph [ref=e410]: "Termasuk di dalam paket:"
+              - list [ref=e411]:
+                - listitem [ref=e412]:
+                  - generic [ref=e416]: Admin dashboard
+                - listitem [ref=e417]:
+                  - generic [ref=e421]: Authentication
+                - listitem [ref=e422]:
+                  - generic [ref=e426]: Database
+                - listitem [ref=e427]:
+                  - generic [ref=e431]: POS
+                - listitem [ref=e432]:
+                  - generic [ref=e436]: Booking system
+                - listitem [ref=e437]:
+                  - generic [ref=e441]: Inventory
+                - listitem [ref=e442]:
+                  - generic [ref=e446]: Payment integration
+                - listitem [ref=e447]:
+                  - generic [ref=e451]: API integration
+                - listitem [ref=e452]:
+                  - generic [ref=e456]: CMS
+                - listitem [ref=e457]:
+                  - generic [ref=e461]: Role & permission
+                - listitem [ref=e462]:
+                  - generic [ref=e466]: SaaS features
+                - listitem [ref=e467]:
+                  - generic [ref=e471]: Custom business logic
+          - generic [ref=e472]:
+            - link [ref=e473] [cursor=pointer]:
+              - /url: /pricing/custom
+              - button "Lihat Detail Paket" [ref=e474]
+            - button "Diskusikan Project Langsung (Form Kontak) ↓" [ref=e480] [cursor=pointer]
+      - generic [ref=e481]:
+        - heading "Tidak menemukan paket yang sesuai?" [level=3] [ref=e482]
+        - paragraph [ref=e483]: Tidak masalah. Setiap project bisa disesuaikan dengan kebutuhan dan budget. Ceritakan dulu apa yang ingin dibuat, lalu kita tentukan fitur dan solusi yang paling masuk akal.
+        - generic [ref=e484]:
+          - link [ref=e485] [cursor=pointer]:
+            - /url: /pricing/custom
+            - button "Detail Paket Custom" [ref=e486]
+          - button "Konsultasi Project (Form)" [ref=e490]
+    - generic [ref=e493]:
+      - generic [ref=e494]:
+        - paragraph [ref=e495]: FAQ
+        - heading "Pertanyaan yang Sering Diajukan." [level=2] [ref=e496]
+        - paragraph [ref=e497]: Hal-hal yang biasanya ditanyakan sebelum memulai project website.
+      - generic [ref=e498]:
+        - generic [ref=e499]:
+          - button "Apakah bisa request fitur khusus?" [ref=e500]
+          - paragraph [ref=e507]: Bisa. Fitur dapat dibicarakan terlebih dahulu dan akan disesuaikan dengan kebutuhan project.
+        - generic [ref=e508]:
+          - button "Apakah bisa dibuat sesuai budget?" [ref=e509]
+          - paragraph [ref=e514]: Bisa. Scope dan fitur dapat disesuaikan agar project tetap realistis dengan budget yang tersedia.
+        - generic [ref=e515]:
+          - button "Apakah sudah termasuk domain dan hosting?" [ref=e516]
+          - paragraph [ref=e521]: Bisa dibantu untuk setup, tetapi biaya domain dan hosting menyesuaikan provider dan kebutuhan project.
+        - generic [ref=e522]:
+          - button "Apakah bisa mengelola website sendiri?" [ref=e523]
+          - paragraph [ref=e528]: Bisa, jika project membutuhkan CMS atau admin dashboard.
+        - generic [ref=e529]:
+          - button "Saya belum tahu website seperti apa yang saya butuhkan." [ref=e530]
+          - paragraph [ref=e535]: Tidak masalah. Kita bisa mulai dari konsultasi untuk menentukan struktur, fitur, dan solusi yang sesuai.
+    - generic [ref=e538]:
+      - generic [ref=e539]:
+        - generic [ref=e540]:
+          - generic [ref=e541]: Start A Project
+          - heading "Punya ide website? Mari kita bahas dulu." [level=2] [ref=e544]: Punya ide website?Mari kita bahas dulu.
+          - paragraph [ref=e545]: Ceritakan kebutuhan website atau sistem yang ingin Anda buat. Kita bisa mulai dari diskusi dan menentukan solusi yang paling sesuai — apakah website sederhana, sistem custom, atau solusi lainnya.
+        - generic [ref=e546]:
+          - button "Mulai Konsultasi ↗" [ref=e547]:
+            - text: Mulai Konsultasi
+            - generic [ref=e548]: ↗
+          - button "Lihat Portfolio" [ref=e549]
+      - generic [ref=e551]:
+        - generic [ref=e552]: Web Development · Design · Custom
+        - generic [ref=e553]: Let's Talk About Your Project
+  - contentinfo [ref=e554]:
+    - generic [ref=e555]:
+      - generic [ref=e556]:
+        - generic [ref=e557]:
+          - generic [ref=e558]: NusaCode
+          - paragraph [ref=e559]: Premium websites, web applications, and digital solutions for forward-thinking businesses.
+          - generic [ref=e560]:
+            - link "Instagram" [ref=e561] [cursor=pointer]:
+              - /url: https://instagram.com
+            - link "Facebook" [ref=e564] [cursor=pointer]:
+              - /url: https://facebook.com
+            - link "LinkedIn":
+              - /url: https://linkedin.com
+        - generic [ref=e567]:
+          - heading "Navigation" [level=4] [ref=e568]
+          - list [ref=e569]:
+            - listitem [ref=e570]:
+              - link "About" [ref=e571] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=e572]:
+              - link "Services" [ref=e573] [cursor=pointer]:
+                - /url: /services
+            - listitem [ref=e574]:
+              - link "Pricing" [ref=e575] [cursor=pointer]:
+                - /url: /pricing
+            - listitem [ref=e576]:
+              - link "Projects" [ref=e577] [cursor=pointer]:
+                - /url: /projects
+            - listitem [ref=e578]:
+              - link "Contact" [ref=e579] [cursor=pointer]:
+                - /url: /contact
+        - generic [ref=e580]:
+          - heading "Contact" [level=4] [ref=e581]
+          - list [ref=e582]:
+            - listitem [ref=e583]: hello@nusacode.com
+            - listitem [ref=e584]: +62 812-3456-7890
+            - listitem [ref=e585]: Jakarta, Indonesia
+        - generic [ref=e586]:
+          - heading "Hours" [level=4] [ref=e587]
+          - list [ref=e588]:
+            - listitem [ref=e589]: "Mon-Fri: 6am - 11pm"
+            - listitem [ref=e590]: "Sat: 7am - 10pm"
+            - listitem [ref=e591]: "Sun: 7am - 9pm"
+      - generic [ref=e592]: © 2026 NusaCode. All rights reserved.

@@ -1,1 +1,61 @@
 @import "tailwindcss";
+
+body {
+  background-color: #fafaf9;
+  color: #171717;
+  font-family: "Inter", system-ui, sans-serif;
+  font-size: 16px;
+  line-height: 1.65;
+}
+
+@layer utilities {
+  .section-padding {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+  }
+  
+  @media (min-width: 640px) {
+    .section-padding {
+      padding-top: 6rem;
+      padding-bottom: 6rem;
+    }
+  }
+  
+  @media (min-width: 768px) {
+    .section-padding {
+      padding-top: 7rem;
+      padding-bottom: 7rem;
+    }
+  }
+  
+  .section-title {
+    font-size: 2.25rem;
+    font-weight: 500;
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+  }
+  
+  @media (min-width: 640px) {
+    .section-title {
+      font-size: 3rem;
+    }
+  }
+  
+  @media (min-width: 768px) {
+    .section-title {
+      font-size: 3.75rem;
+    }
+  }
+  
+  .rounded-large {
+    border-radius: 24px;
+  }
+  
+  .rounded-card {
+    border-radius: 20px;
+  }
+  
+  .button-pill {
+    border-radius: 9999px;
+  }
+}
